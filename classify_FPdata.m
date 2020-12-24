@@ -93,7 +93,7 @@ end
 % Only trials that show deviation from BL
 data_in{1} = data_in{1}(sum(abs(data_in{1})>cDatDev,2)>10,:);
 data_in{2} = data_in{2}(sum(abs(data_in{2})>cDatDev,2)>10,:);
-meta_in = meta_in(sum(data_in{1}>cDatDev,2)>10,:);
+meta_in = meta_in(sum(abs(data_in{1})>cDatDev,2)>10,:);
 
 
 end

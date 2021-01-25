@@ -1,7 +1,7 @@
 # CombiCagePhotometry
 Data analysis for fiber photometry experiments in 5-CSRTT/CombiCage
 
-Run Analysis_v400 for a step-by-step anaylsis of fiber photometry 5-CSRTT data.
+Run Analysis_v400 for a step-by-step analysis of fiber photometry 5-CSRTT data.
 
 Full dataset can be requested via sybrendekloet@gmail.com.
 
